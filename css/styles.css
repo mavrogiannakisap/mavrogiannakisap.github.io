@@ -1,0 +1,149 @@
+/* General Styles */
+body {
+    font-family: 'Zed Plex Mono', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: darkblue;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: darkblue;
+    background-color: lightblue;
+}
+
+/* Home Page */
+#home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightgray;
+}
+
+#profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: url('../images/profile.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#profile-text {
+    background: darkblue;
+    color: white;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+/* Publications Page */
+button {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+#publication-list, #publication-form {
+    margin: 20px;
+}
+
+#publication-form {
+    display: none;
+    border: 1px solid darkblue;
+    padding: 20px;
+}
+
+#publication-form input, #publication-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#publication-form textarea {
+    height: 100px;
+}
+
+.publication {
+    margin: 10px 0;
+}
+
+.publication button {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.publication button:hover {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+.publication abstract {
+    display: none;
+    border: 1px solid darkblue;
+    padding: 10px;
+}
+
+/* Experience Page */
+#experience-table, #education-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table {
+    border: 1px solid darkblue;
+}
+
+th, td {
+    border: 1px solid darkblue;
+    padding: 10px;
+    text-align: left;
+}
+
+thead {
+    background-color: darkblue;
+    color: white;
+}
+
+tbody {
+    background-color: lightgray;
+}
+
+/* Blog Page */
+#blog-posts {
+    margin: 20px;
+}
+
+.blog-post {
+    border: 1px solid darkblue;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.blog-post h2 {
+    margin: 0;
+}
+
+.blog-post p {
+    margin: 5px 0;
+}
+
