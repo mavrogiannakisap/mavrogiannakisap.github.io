@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Teaching | Apostolos Mavrogiannakis</title>
-    <link>http://localhost:1313/teaching/</link>
-      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_a4cfa1cbdb0f21db.png</url>
-      <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
-    </image>
-    
-    <item>
-      <title>CSC 201 - Advanced Cryptography</title>
-      <link>http://localhost:1313/teaching/advanced-crypto/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/advanced-crypto/</guid>
-      <description>&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teaching | Apostolos Mavrogiannakis</title><link>https://mavrogiannakisap.github.io/teaching/</link><atom:link href="https://mavrogiannakisap.github.io/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Teaching</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://mavrogiannakisap.github.io/media/icon_hu_a4cfa1cbdb0f21db.png</url><title>Teaching</title><link>https://mavrogiannakisap.github.io/teaching/</link></image><item><title>CSC 201 - Advanced Cryptography</title><link>https://mavrogiannakisap.github.io/teaching/advanced-crypto/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://mavrogiannakisap.github.io/teaching/advanced-crypto/</guid><description>&lt;h2 id="course-overview"&gt;Course Overview&lt;/h2&gt;
 &lt;p&gt;CSC 201 is a graduate-level course covering advanced topics in modern cryptography, including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Public-key cryptography and digital signatures&lt;/li&gt;
@@ -26,7 +7,7 @@
 &lt;li&gt;Oblivious RAM and private information retrieval&lt;/li&gt;
 &lt;li&gt;Post-quantum cryptography&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;
+&lt;h2 id="my-role"&gt;My Role&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; | Winter 2024, Winter 2023&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Held weekly office hours and review sessions&lt;/li&gt;
@@ -34,7 +15,7 @@
 &lt;li&gt;Designed practical lab exercises on implementing cryptographic protocols&lt;/li&gt;
 &lt;li&gt;Guest lectured on &amp;ldquo;ORAM Constructions and Applications&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;skills-developed&#34;&gt;Skills Developed&lt;/h2&gt;
+&lt;h2 id="skills-developed"&gt;Skills Developed&lt;/h2&gt;
 &lt;p&gt;Students in this course gain:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Deep understanding of cryptographic primitives and protocols&lt;/li&gt;
@@ -42,22 +23,13 @@
 &lt;li&gt;Experience implementing secure systems&lt;/li&gt;
 &lt;li&gt;Skills in reading and understanding research papers&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;h2 id="resources"&gt;Resources&lt;/h2&gt;
 &lt;p&gt;Course materials include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Textbook: &amp;ldquo;A Graduate Course in Applied Cryptography&amp;rdquo; by Boneh and Shoup&lt;/li&gt;
 &lt;li&gt;Research papers from top security conferences&lt;/li&gt;
 &lt;li&gt;Hands-on programming assignments in Python using cryptographic libraries&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CSC 150 - Computer Networks</title>
-      <link>http://localhost:1313/teaching/networks/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/networks/</guid>
-      <description>&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>CSC 150 - Computer Networks</title><link>https://mavrogiannakisap.github.io/teaching/networks/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><guid>https://mavrogiannakisap.github.io/teaching/networks/</guid><description>&lt;h2 id="course-overview"&gt;Course Overview&lt;/h2&gt;
 &lt;p&gt;CSC 150 covers fundamental concepts in computer networking:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Network architecture and protocols (TCP/IP stack)&lt;/li&gt;
@@ -67,7 +39,7 @@
 &lt;li&gt;Application layer protocols (HTTP, DNS, etc.)&lt;/li&gt;
 &lt;li&gt;Network security fundamentals&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;
+&lt;h2 id="my-role"&gt;My Role&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; | Fall 2023, Fall 2022&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Conducted weekly lab sessions on network programming&lt;/li&gt;
@@ -75,7 +47,7 @@
 &lt;li&gt;Graded exams and programming projects&lt;/li&gt;
 &lt;li&gt;Held office hours for one-on-one student support&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;key-projects&#34;&gt;Key Projects&lt;/h2&gt;
+&lt;h2 id="key-projects"&gt;Key Projects&lt;/h2&gt;
 &lt;p&gt;Students complete several hands-on projects:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;HTTP Web Server&lt;/strong&gt;: Implement a basic web server from scratch&lt;/li&gt;
@@ -83,22 +55,13 @@
 &lt;li&gt;&lt;strong&gt;Network Sniffer&lt;/strong&gt;: Packet capture and analysis tool&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Secure Communication&lt;/strong&gt;: Implement TLS-like protocol&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;student-feedback&#34;&gt;Student Feedback&lt;/h2&gt;
+&lt;h2 id="student-feedback"&gt;Student Feedback&lt;/h2&gt;
 &lt;p&gt;Received positive feedback for:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Clear explanations of complex networking concepts&lt;/li&gt;
 &lt;li&gt;Helpful debugging assistance on programming assignments&lt;/li&gt;
 &lt;li&gt;Creating supplementary materials and examples&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CSC 101 - Introduction to Computer Security</title>
-      <link>http://localhost:1313/teaching/security/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/security/</guid>
-      <description>&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>CSC 101 - Introduction to Computer Security</title><link>https://mavrogiannakisap.github.io/teaching/security/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://mavrogiannakisap.github.io/teaching/security/</guid><description>&lt;h2 id="course-overview"&gt;Course Overview&lt;/h2&gt;
 &lt;p&gt;CSC 101 introduces students to fundamental computer security concepts:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Security principles and threat modeling&lt;/li&gt;
@@ -108,7 +71,7 @@
 &lt;li&gt;Web security (XSS, CSRF, SQL injection)&lt;/li&gt;
 &lt;li&gt;Software security (buffer overflows, memory safety)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;
+&lt;h2 id="my-role"&gt;My Role&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; | Spring 2022, Spring 2021&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Led discussion sections covering security concepts&lt;/li&gt;
@@ -116,7 +79,7 @@
 &lt;li&gt;Mentored students on security-related projects&lt;/li&gt;
 &lt;li&gt;Organized capture-the-flag (CTF) competitions for students&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;lab-exercises&#34;&gt;Lab Exercises&lt;/h2&gt;
+&lt;h2 id="lab-exercises"&gt;Lab Exercises&lt;/h2&gt;
 &lt;p&gt;Created engaging labs including:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Cryptography Lab&lt;/strong&gt;: Breaking weak encryption schemes&lt;/li&gt;
@@ -124,21 +87,16 @@
 &lt;li&gt;&lt;strong&gt;Network Security Lab&lt;/strong&gt;: Setting up firewalls and intrusion detection&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Binary Exploitation Lab&lt;/strong&gt;: Understanding buffer overflows&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;impact&#34;&gt;Impact&lt;/h2&gt;
+&lt;h2 id="impact"&gt;Impact&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Introduced CTF competition that became annual department tradition&lt;/li&gt;
 &lt;li&gt;Developed supplementary tutorials on security tools (Wireshark, Burp Suite)&lt;/li&gt;
 &lt;li&gt;Mentored 5 undergraduate students who pursued security research&lt;/li&gt;
 &lt;li&gt;Course materials adopted by other TAs in subsequent semesters&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
+&lt;h2 id="guest-lectures"&gt;Guest Lectures&lt;/h2&gt;
 &lt;p&gt;Delivered guest lectures on:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&amp;ldquo;Real-World Security Incidents: Case Studies&amp;rdquo; (2022)&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Introduction to Applied Cryptography&amp;rdquo; (2021)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/ul&gt;</description></item></channel></rss>
