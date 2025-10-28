@@ -31,6 +31,12 @@ jobs:
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+    - name: Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    - name: Install npm dependencies
+      run: npm ci
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
