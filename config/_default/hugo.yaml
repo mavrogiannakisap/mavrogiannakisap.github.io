@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Apostolos Mavrogiannakis
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://mavrogiannakisap.github.io/'
 
 ############################
 ## LANGUAGE
@@ -45,6 +45,7 @@ timeout: 600000
 taxonomies:
   author: authors
   tag: tags
+  category: categories
   publication_type: publication_types
 markup:
   _merge: deep

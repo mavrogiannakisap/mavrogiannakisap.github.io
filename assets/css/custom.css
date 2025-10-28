@@ -1,0 +1,16 @@
+/* Add more vertical spacing between biography section and research overview */
+#about {
+  padding-bottom: 100px !important;
+}
+
+/* Increase horizontal gap between name/title column and About Me column */
+.resume-biography .grid.md\:grid-cols-12 {
+  column-gap: 6rem !important;
+}
+
+/* On mobile, keep normal gap */
+@media (max-width: 768px) {
+  .resume-biography .grid.md\:grid-cols-12 {
+    column-gap: 2rem !important;
+  }
+}

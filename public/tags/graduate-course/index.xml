@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graduate Course | Apostolos Mavrogiannakis</title>
+    <link>http://localhost:1313/tags/graduate-course/</link>
+      <atom:link href="http://localhost:1313/tags/graduate-course/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graduate Course</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_a4cfa1cbdb0f21db.png</url>
+      <title>Graduate Course</title>
+      <link>http://localhost:1313/tags/graduate-course/</link>
+    </image>
+    
+    <item>
+      <title>CSC 201 - Advanced Cryptography</title>
+      <link>http://localhost:1313/teaching/advanced-crypto/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/advanced-crypto/</guid>
+      <description>&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
+&lt;p&gt;CSC 201 is a graduate-level course covering advanced topics in modern cryptography, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Public-key cryptography and digital signatures&lt;/li&gt;
+&lt;li&gt;Zero-knowledge proofs&lt;/li&gt;
+&lt;li&gt;Secure multi-party computation&lt;/li&gt;
+&lt;li&gt;Oblivious RAM and private information retrieval&lt;/li&gt;
+&lt;li&gt;Post-quantum cryptography&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; | Winter 2024, Winter 2023&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Held weekly office hours and review sessions&lt;/li&gt;
+&lt;li&gt;Graded problem sets and programming assignments&lt;/li&gt;
+&lt;li&gt;Designed practical lab exercises on implementing cryptographic protocols&lt;/li&gt;
+&lt;li&gt;Guest lectured on &amp;ldquo;ORAM Constructions and Applications&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills-developed&#34;&gt;Skills Developed&lt;/h2&gt;
+&lt;p&gt;Students in this course gain:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep understanding of cryptographic primitives and protocols&lt;/li&gt;
+&lt;li&gt;Ability to analyze security of cryptographic systems&lt;/li&gt;
+&lt;li&gt;Experience implementing secure systems&lt;/li&gt;
+&lt;li&gt;Skills in reading and understanding research papers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Course materials include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Textbook: &amp;ldquo;A Graduate Course in Applied Cryptography&amp;rdquo; by Boneh and Shoup&lt;/li&gt;
+&lt;li&gt;Research papers from top security conferences&lt;/li&gt;
+&lt;li&gt;Hands-on programming assignments in Python using cryptographic libraries&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

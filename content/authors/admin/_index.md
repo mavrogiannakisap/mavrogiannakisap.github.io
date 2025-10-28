@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Apostolos Mavrogiannakis
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Apostolos
+last_name: Mavrogiannakis
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔬
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,133 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate in Computer Science
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in biography block
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of California, Santa Cruz
+    url: https://www.ucsc.edu/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:amavrogiannakis@ucsc.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mavrogiannakisap
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/amavrogi/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=apostolos+mavrogiannakis&btnG=
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cryptography
+  - Confidential Computing
+  - Hardware Enclaves
+  - Distributed Systems
+  - Privacy-Preserving Computation
+  - Systems Security
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - area: PhD Computer Science
+    institution: University of California, Santa Cruz
+    date_start: 2022-09
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      Research focus on privacy-preserving systems and cryptographic protocols. Advised by Prof. Ioannis Demertzis.
+
+      Key areas:
+      - Confidential Computing
+      - Trusted Execution Environments
+      - Scalable Oblivious Databases 
+      - Oblivious RAM (ORAM) systems
+      - Applied cryptography
+  - area: BS Computer Science
+    institution: University of Crete
+    date_start: 2016-09
+    date_end: 2022-09
+    summary: |
+
+work:
+  - position: Graduate Student Researcher
+    company_name: UC Santa Cruz
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-09-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducting research in privacy-preserving systems
+      - Publishing in top-tier security and systems conferences
+      - Collaborating with industry partners on applied cryptography projects
+  # - position: Research Intern
+  #   company_name: Tech Company
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2022-06-01
+  #   date_end: 2022-09-01
+  #   summary: |
+  #     - Developed novel cryptographic protocols for secure computation
+  #     - Implemented prototype systems for privacy-preserving analytics
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 90
+#         icon: code-bracket
+#       - name: C/C++
+#         description: ''
+#         percent: 85
+#         icon: code-bracket
+#       - name: Cryptography
+#         description: ''
+#         percent: 80
+#         icon: chart-bar
+#       - name: Distributed Systems
+#         description: ''
+#         percent: 75
+#         icon: circle-stack
+#   - name: Research Skills
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Academic Writing
+#         description: ''
+#         percent: 85
+#         icon: pencil
+#       - name: Research Design
+#         description: ''
+#         percent: 90
+#         icon: academic-cap
+#       - name: Presentation
+#         description: ''
+#         percent: 80
+#         icon: presentation-chart-line
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Greek
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Outstanding Academic Performance Scholarship
+    url: ''
+    date: '2023-10'
+    awarder: Gerondelis Foundation
+    icon: ''
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Competitive fellowship supporting PhD research in computer science.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in Computer Science at the University of California, Santa Cruz, where I work on scalable privacy-preserving systems and applied cryptography. My research focuses on developing practical cryptographic protocols that enable secure computation over sensitive data while meeting the demanding efficiency guarantees of real-world applications.
+
+I am particularly interested in the intersection of theory and practice — designing cryptographic systems that are not only provably secure but also efficient enough for real-world deployment. My recent work introduces scalable oblivious operators for secure databases in shared-memory environments.

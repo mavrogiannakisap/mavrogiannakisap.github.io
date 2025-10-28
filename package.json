@@ -1,0 +1,29 @@
+{
+  "name": "mavrogiannakisap.github.io",
+  "version": "1.0.0",
+  "description": "This is the source code for my personal academic website, built with [Hugo](https://gohugo.io/) and [Hugo Blox](https://hugoblox.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavrogiannakisap/mavrogiannakisap.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mavrogiannakisap/mavrogiannakisap.github.io/issues"
+  },
+  "homepage": "https://github.com/mavrogiannakisap/mavrogiannakisap.github.io#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.16",
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.19",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.16"
+  }
+}

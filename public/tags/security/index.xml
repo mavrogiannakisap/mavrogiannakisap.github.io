@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security | Apostolos Mavrogiannakis</title>
+    <link>http://localhost:1313/tags/security/</link>
+      <atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <description>Security</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_a4cfa1cbdb0f21db.png</url>
+      <title>Security</title>
+      <link>http://localhost:1313/tags/security/</link>
+    </image>
+    
+    <item>
+      <title>CSC 101 - Introduction to Computer Security</title>
+      <link>http://localhost:1313/teaching/security/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/security/</guid>
+      <description>&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
+&lt;p&gt;CSC 101 introduces students to fundamental computer security concepts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Security principles and threat modeling&lt;/li&gt;
+&lt;li&gt;Cryptography basics (symmetric and public-key)&lt;/li&gt;
+&lt;li&gt;Authentication and access control&lt;/li&gt;
+&lt;li&gt;Network security (firewalls, VPNs, TLS)&lt;/li&gt;
+&lt;li&gt;Web security (XSS, CSRF, SQL injection)&lt;/li&gt;
+&lt;li&gt;Software security (buffer overflows, memory safety)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; | Spring 2022, Spring 2021&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led discussion sections covering security concepts&lt;/li&gt;
+&lt;li&gt;Designed and graded hands-on lab exercises&lt;/li&gt;
+&lt;li&gt;Mentored students on security-related projects&lt;/li&gt;
+&lt;li&gt;Organized capture-the-flag (CTF) competitions for students&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lab-exercises&#34;&gt;Lab Exercises&lt;/h2&gt;
+&lt;p&gt;Created engaging labs including:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Cryptography Lab&lt;/strong&gt;: Breaking weak encryption schemes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web Security Lab&lt;/strong&gt;: Exploiting and fixing common vulnerabilities&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network Security Lab&lt;/strong&gt;: Setting up firewalls and intrusion detection&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Binary Exploitation Lab&lt;/strong&gt;: Understanding buffer overflows&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;impact&#34;&gt;Impact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduced CTF competition that became annual department tradition&lt;/li&gt;
+&lt;li&gt;Developed supplementary tutorials on security tools (Wireshark, Burp Suite)&lt;/li&gt;
+&lt;li&gt;Mentored 5 undergraduate students who pursued security research&lt;/li&gt;
+&lt;li&gt;Course materials adopted by other TAs in subsequent semesters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
+&lt;p&gt;Delivered guest lectures on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Real-World Security Incidents: Case Studies&amp;rdquo; (2022)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Introduction to Applied Cryptography&amp;rdquo; (2021)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

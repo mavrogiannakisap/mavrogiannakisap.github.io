@@ -8,14 +8,19 @@ appearance:
   mode: system
   color: emerald
 
+# Site icon (favicon)
+icon:
+  pack: 'custom'
+  icon: 'icon'
+
 # SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'University of California, Santa Cruz'
+    description: 'Apostolos Mavrogiannakis - PhD Student in Computer Science at UC Santa Cruz. Research in cryptography, privacy-preserving systems, and secure computation.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -30,22 +35,23 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    block: "navbar"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Apostolos Mavrogiannakis"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Apostolos Mavrogiannakis'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  block: minimal
 
 # Localization
 locale:
