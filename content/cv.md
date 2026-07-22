@@ -22,7 +22,7 @@ University of California, Santa Cruz
 - Research Focus: Privacy-preserving systems, applied cryptography, secure computation, confidential computing.
 
 **BS in Computer Science** | 2016 - 2022
-[Undergraduate University]
+Computer Science Department, University of Crete
 - Thesis: Graph Summarization with Prof. Ioannis G. Tollis.
 
 ---
@@ -31,7 +31,7 @@ University of California, Santa Cruz
 
 ### Conference Papers
 
-1. **Apostolos Mavrogiannakis**, Xian Wang, Ioannis Demertzis, . "OBLIVIATOR: Oblivious Parallel Joins and other Operators in Shared Memory Environments" *USENIX Security Symposium*, 2025.
+1. **Apostolos Mavrogiannakis**, Xian Wang, Ioannis Demertzis, Dimitrios Papadopoulos, Minos Garofalakis. "OBLIVIATOR: Oblivious Parallel Joins and other Operators in Shared Memory Environments" *USENIX Security Symposium*, 2025.
 <!--  **[Best Paper Award]** -->
 <!-- 
 1. **Apostolos Mavrogiannakis**, Collaborator Three. "Scalable Secure Multi-Party Computation for Real-World Applications." *USENIX Security Symposium*, 2024.
@@ -44,7 +44,7 @@ University of California, Santa Cruz
 
 ## Research Experience
 
-**Graduate Student Researcher** | Sep 2020 - Present
+**Graduate Student Researcher** | Sep 2022 - Present
 UC Santa Cruz, Computer Science Department
 - Conducting research on privacy-preserving systems and applied cryptography
 - Published papers in top-tier security conferences (USENIX Security)
@@ -66,12 +66,14 @@ UC Santa Cruz, Computer Science Department
 ## Teaching Experience
 
 **Teaching Assistant** | UC Santa Cruz
-- **CSC 101: Algorithms and Data structures** (Fall 2024, Winter 2024)
-- **CSC 108: Introduction to Modern Cryptography** (Spring 2023, Fall 2025)
-- **CSC 13S: C Programming Language** (Winter 2023, Fall 2023, Spring 2024)
+- **CSE 13S: Computer Systems and C Programming** (Winter 2023, Fall 2023, Winter 2024, Spring 2024, Spring 2025, Spring 2026)
+- **CSE 101: Introduction to Data Structures and Algorithms** (Fall 2024, Winter 2025)
+- **CSE 108: Algorithmic Foundations of Cryptography** (Spring 2023, Fall 2025)
+- **CSE 108C: Computing on Encrypted Data** (Winter 2025, Winter 2026)
 
 ## Honors & Awards
 
+- CSE Excellent PhD Award, University of California, Santa Cruz, 2026
 - Outstanding Academic Performance Scholarship, from Gerondelis Foundation
 
 <!-- ---
@@ -114,7 +116,7 @@ UC Santa Cruz, Computer Science Department
 
 ## Talks & Presentations
 
-1. "Scalable and Oblivious Databases  Systems," Advancement to Candidacy, UC Santa Cruz, September 2025.
+1. "Scalable and Oblivious Database Systems," Advancement to Candidacy, UC Santa Cruz, September 2025.
 2. "OBLIVIATOR - Oblivious Parallel Joins and other Operators in Shared Memory Environments" USENIX Security, August 2025.
 3. "Oblivious Parallel Joins and other operators" UC Santa Cruz Security Seminar, February 2025.
 

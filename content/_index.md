@@ -84,7 +84,7 @@ sections:
       title: 'Talks & Presentations'
       subtitle: ''
       text: |-
-        1. **"Scalable and Oblivious Databases Systems"**
+        1. **"Scalable and Oblivious Database Systems"**
            *Advancement to Candidacy*, UC Santa Cruz, September 2025
 
         2. **"OBLIVIATOR - Oblivious Parallel Joins and other Operators in Shared Memory Environments"**
@@ -104,7 +104,7 @@ sections:
       title: 'News & Updates'
       subtitle: ''
       text: |-
-        **February 2025:** Our paper on oblivious databased got accepted in Usenix Security 2025!
+        **February 2025:** Our paper on oblivious databases got accepted in USENIX Security 2025!
 
         **September 2023:** Received a Research Grant from the Gerondelis Foundation.  
     design:
