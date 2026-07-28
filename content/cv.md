@@ -31,7 +31,9 @@ Computer Science Department, University of Crete
 
 ### Conference Papers
 
-1. **Apostolos Mavrogiannakis**, Xian Wang, Ioannis Demertzis, Dimitrios Papadopoulos, Minos Garofalakis. "OBLIVIATOR: Oblivious Parallel Joins and other Operators in Shared Memory Environments" *USENIX Security Symposium*, 2025.
+1. **Apostolos Mavrogiannakis**, Xian Wang, Ioannis Demertzis, Dimitrios Papadopoulos, Minos Garofalakis. "DISCO: Distributed and Scalable Oblivious Joins and Oblivious Primitives" *ACM Symposium on Operating Systems Principles (SOSP)*, 2026.
+
+2. **Apostolos Mavrogiannakis**, Xian Wang, Ioannis Demertzis, Dimitrios Papadopoulos, Minos Garofalakis. "OBLIVIATOR: Oblivious Parallel Joins and other Operators in Shared Memory Environments" *USENIX Security Symposium*, 2025.
 <!--  **[Best Paper Award]** -->
 <!-- 
 1. **Apostolos Mavrogiannakis**, Collaborator Three. "Scalable Secure Multi-Party Computation for Real-World Applications." *USENIX Security Symposium*, 2024.
@@ -48,6 +50,9 @@ Computer Science Department, University of Crete
 UC Santa Cruz, Computer Science Department
 - Conducting research on privacy-preserving systems and applied cryptography
 - Published papers in top-tier security conferences (USENIX Security)
+
+**Research Intern** | AMD
+Mentor: Nathaniel McCallum
 
 
 <!-- **Research Intern** | Jun 2022 - Sep 2022
@@ -105,15 +110,6 @@ UC Santa Cruz, Computer Science Department
 
 ---
 
-## Technical Skills
-
-**Programming Languages:** Python, C/C++, Java
-**Cryptographic Libraries:** OpenSSL, libsodium 
-**Systems & Tools:** Docker, Git, Linux
-**Areas of Expertise:** Cryptography, Distributed Systems, Privacy-Preserving Databases, System Security
-
----
-
 ## Talks & Presentations
 
 1. "Scalable and Oblivious Database Systems," Advancement to Candidacy, UC Santa Cruz, September 2025.
@@ -131,12 +127,5 @@ High-performance implementation of tree-based ORAM with 40% reduced communicatio
 Production-ready framework for secure multi-party computation over distributed datasets
 
 --- -->
-
-## Languages
-
-- **English:** Proficiency
-- **Greek:** Native proficiency
-
----
 
 *Last updated: October 2025*
